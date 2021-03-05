@@ -1,0 +1,10 @@
+.card{
+	text-align: center;
+}
+
+.interne{
+	background-color: transparent;
+	padding: 3px;
+	border: solid white 2px;
+	height: 90%; 
+}
